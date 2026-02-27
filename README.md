@@ -25,8 +25,6 @@ Arquivo principal da UI: `UIMain`
 
 **Disclaimer**: Este repositório contém um projeto-base criado pelo curso CI&T - Backend com Java & AWS (Pela Plataforma DIO). Nesta cópia/fork adicionamos funcionalidades e melhorias próprias — por exemplo: recurso de "Embaralhar" com níveis de dificuldade, script `run.ps1` para compilar e executar a UI facilmente, remoção da entrada por console, tratamento seguro de argumentos, e correções de bugs/UI.
 
-Se você publicar este código no GitHub, mantenha quaisquer créditos/licenças do projeto original conforme solicitado pelos autores do curso.
-
 Original project: https://github.com/digitalinnovationone/sudoku
 
 Original author / professor: José Luiz Abreu Cardoso Junior (GitHub: juniorjrjl)
